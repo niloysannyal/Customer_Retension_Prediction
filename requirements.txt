@@ -1,0 +1,23 @@
+# Data manipulation & analysis
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep Learning
+tensorflow
+keras
+
+# Web framework for API (if using)
+flask
+flask-cors
+
+# Model serialization
+joblib
+
+# Visualization (optional)
+matplotlib
+seaborn
