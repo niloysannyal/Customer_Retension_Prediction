@@ -54,14 +54,24 @@ git clone https://github.com/niloysannyal/Customer_Retension_Prediction.git
 ```
 cd Customer_Retension_Prediction
 ```
-3. Install dependencies:
+
+3. Create a virtual environment
+```
+python -m venv venv
+source venv/bin/activate   # On Linux/Mac
+venv\Scripts\activate      # On Windows
+```
+
+4. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-4. Open the Jupyter Notebook:
+
+5. Open the Jupyter Notebook:
 ```
 notebook/Customer_Retension_Prediction.ipynb
 ```
+
 
 ##  Methodology 
 
